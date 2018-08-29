@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["logger","info","setInterval","ticker"],"mappings":";;AAAA;;;;AACA;;;;;;AAEAA,iBAAOC,IAAP,CAAY,qBAAZ;;AAEAC,YAAYC,gBAAZ,EAAoB,IAApB","file":"index.js","sourcesContent":["import ticker from './ticker';\nimport logger from './logger';\n\nlogger.info('starting the app...');\n\nsetInterval(ticker, 3000);\n"]}

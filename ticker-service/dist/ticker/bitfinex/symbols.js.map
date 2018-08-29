@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/ticker/bitfinex/symbols.js"],"names":["btcUsd"],"mappings":";;;;;kBAAe;AACbA,UAAQ;AADK,C","file":"symbols.js","sourcesContent":["export default {\n  btcUsd: 'tBTCUSD',\n};\n"]}
